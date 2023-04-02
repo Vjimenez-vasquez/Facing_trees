@@ -1,5 +1,5 @@
 # Facing_trees
-Facing_trees
+Facing_trees: A personalized R script for facing trees visualization.
 
 A code compiled by Victor Jimenez-Vasquez - vr.jimenez.vs@gmail.com
 
